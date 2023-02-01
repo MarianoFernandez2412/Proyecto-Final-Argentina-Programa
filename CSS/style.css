@@ -1,0 +1,91 @@
+*{
+    font-family: 'Fira Sans', sans-serif;
+    background-color: rgb(58, 58, 58);
+    color:aliceblue;
+    font-size: 12px
+}
+
+header, article{
+    width: 97.6%;
+}
+
+header{
+    margin: 10px;
+    padding: 5px;
+    background-color: rgb(134, 80, 80);
+    display: block;
+    block-size: auto;
+}
+
+header img{
+    margin: 15px;
+    min-width: auto;
+    min-height: auto;
+    max-width: 119.6875px;
+    max-height: 217.1875px;
+    float: left;
+}
+
+header h1{
+    color: rgb(252, 160, 124);
+    font-size: 3.4em;
+    font: bold;
+    background-color: rgb(134, 80, 80);
+    margin-bottom: 0px;
+    text-align: center;
+}
+header p{
+    color: rgb(218, 218, 218);
+    font-size: 1.6em;
+    background-color: rgb(134, 80, 80);
+    margin-top: 2px;
+    text-align: center;
+}
+article{
+    margin-top: 40px;
+    background-color:rgb(241, 119, 160);
+    padding-top: 10px;
+    padding-bottom: 10px;
+    max-width: 350px;
+    display: inline-block;
+    float: left;
+    margin-right: 40px;
+}
+article img{
+    max-width: 100px;
+    max-height: 100px;
+    display: block;
+    margin: auto;
+    background-color:rgb(241, 119, 160);
+}
+article h3{
+    color: rgb(233, 233, 233);
+    font-size: 1.5em;
+    text-align: center;
+}
+article p{
+    color: rgb(27, 27, 27);
+    font-size: 1.15em;
+    text-align: center;
+
+}
+#nombre{
+    background-color: rgb(134, 80, 80);
+    margin-right: 135px;
+}
+#contenido{
+    display: inline-block;
+    margin-top: 25px;
+    margin-right: 15px;
+    margin-left: 105px;
+    width: 90%;
+}
+.DatosPersonales{
+    background-color:rgb(241, 119, 160);
+}
+.Estudios{
+    background-color:rgb(241, 119, 160);
+}
+.Conocimientos{
+    background-color:rgb(241, 119, 160);
+}
